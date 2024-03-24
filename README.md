@@ -1,9 +1,9 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From game development with Godot and Unity to automation with Python, I'm on this journey learning more and more and creating solutions for my projects..</p>&nbsp;
+<p>I ❤️ solve great challenges using tech. <br><br> From game development with Godot and Unity to automation with Python, I'm on this journey learning more and more and creating solutions for my projects..</p>&nbsp;
 
 <div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AntonioABLima&show_icons=true&theme=radical" />
- <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioABLima&theme=radical&layout=compact" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MateusVega&show_icons=true&theme=radical" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVega&theme=radical&layout=compact" />
 </div>
  
  &nbsp;

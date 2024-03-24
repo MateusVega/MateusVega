@@ -1,9 +1,10 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From game development with Godot and Unity to automation with Python, I'm on this journey learning more and more and creating solutions for my projects..</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MateusVega&theme=radical&mode=weekly" />
- </div>
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AntonioABLima&show_icons=true&theme=radical" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioABLima&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;

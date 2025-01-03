@@ -1,6 +1,4 @@
 
-<p>I ❤️ solve great challenges using tech. <br><br>Started my journey as a game developer, transitioned to Python development, and now I use Python and JavaScript to create dynamic web applications as a web developer.</p>&nbsp;
-
 <div style="display: flex; flex-direction: row;">
  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=MateusVega&show_icons=true&theme=radical" />
  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVega&theme=radical&layout=compact" />
